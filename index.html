@@ -1,0 +1,471 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Woo Commerce</title>
+    <link rel="stylesheet" href="./styles/style.css">
+    <link rel="icon" href="./images/site_icon.jpg">
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.2.3/dist/css/bootstrap.min.css" rel="stylesheet" 
+    integrity="sha384-rbsA2VBKQhggwzxH7pPCaAqO46MgnOM80zW1RWuH61DGLwZJEdK2Kadq2F9CUG65" crossorigin="anonymous">
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.10.5/font/bootstrap-icons.css" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@400;500;600&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.0/css/all.min.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/OwlCarousel2/2.3.4/assets/owl.carousel.min.css">
+   <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/OwlCarousel2/2.3.4/assets/owl.theme.default.min.css">
+   <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/swiper@11/swiper-bundle.min.css" />
+
+</head>
+<body>
+
+
+
+
+
+
+
+  <!-- <div class="modal fade" id="offerModal" tabindex="-1" aria-labelledby="offerModalLabel" aria-hidden="true">
+    <div class="modal-dialog modal-lg modal-dialog-centered">
+      <div class="modal-content popup-container">
+        <button type="button" class="btn-close close-btn" data-bs-dismiss="modal" aria-label="Close"></button>
+        <div class="row">
+          <div class="col-md-6 img-col"></div>
+          <div class="col-md-6 text-col d-flex flex-column justify-content-center align-items-center text-white text-center p-4">
+            <h2>Upto 55% Off!</h2>
+            <p>Subscribe to our mailing list to get the new updates!</p>
+            <div class="input-group mb-3">
+              <input type="email" class="form-control" placeholder="Your email address" />
+              <button class="btn btn-dark">Sign up</button>
+            </div>
+            <div class="form-check text-start w-100">
+              <input class="form-check-input" type="checkbox" value="" id="dontShow">
+              <label class="form-check-label" for="dontShow">Don't show this popup again</label>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+ -->
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<header class="topbar">
+  <div class="container d-flex justify-content-between align-items-center flex-wrap py-2">
+    <div class="d-flex gap-4 align-items-center topbar-left flex-wrap">
+<div class="email d-flex align-items-center">
+  <i class="bi bi-envelope me-2"></i>
+  <a href="mailto:support@example.com" class="mb-0 text-decoration-none text-reset">support@example.com</a>
+</div>
+
+<div class="number d-flex align-items-center">
+  <i class="bi bi-telephone me-2"></i>
+  <a href="tel:+2345678910" class="text-decoration-none text-reset">+(234) 5678 910</a>
+</div>
+
+    </div>
+
+    <div class="d-flex gap-3 align-items-center topbar-right flex-wrap mt-2 mt-md-0">
+      <div class="welcome-text">Welcome To Worldwide <strong>MATJAR</strong> Store.</div>
+
+      <div class="dropdown" data-anim-trigger>
+        <button class="btn btn-sm dropdown-toggle" type="button" data-bs-toggle="dropdown" aria-expanded="false">USD</button>
+        <ul class="dropdown-menu">
+          <li><a class="dropdown-item" href="#">EUR</a></li>
+          <li><a class="dropdown-item" href="#">GBP</a></li>
+          <li><a class="dropdown-item" href="#">JPY</a></li>
+        </ul>
+      </div>
+
+      <div class="dropdown" data-anim-trigger>
+        <button class="btn btn-sm dropdown-toggle" type="button" data-bs-toggle="dropdown" aria-expanded="false">ENGLISH</button>
+        <ul class="dropdown-menu" style="z-index: 1052;">
+          <li><a class="dropdown-item" href="#">RUSSIAN</a></li>
+          <li><a class="dropdown-item" href="#">GEORGIAN</a></li>
+          <li><a class="dropdown-item" href="#">GERMAN</a></li>
+        </ul>
+      </div>
+
+<a href="FAQ.html" class="btn btn-outline-primary btn-sm rounded-pill FAQs">FAQs</a>
+    </div>
+  </div>
+</header>
+
+  
+<nav class="navbar navbar-expand-lg luxury-navbar shadow-sm" id="navbar-2">
+  <div class="container d-flex align-items-center justify-content-between">
+
+    
+    <a class="navbar-brand fw-bold fs-3" href="#">
+      <span class="text-black">Mat</span><span class="text-gold">jar</span>
+    </a>
+
+    
+    <form class="d-flex flex-grow-1 mx-4 rounded-pill luxury-search" role="search">
+      <input class="form-control me-2" type="search" placeholder="Search for categories, products..." aria-label="Search" />
+      <select class="form-select me-2 w-auto">
+        <option selected>All Categories</option>
+<option>Computers & Laptops</option> <option>Electronics</option> <option>Home Appliances</option> <option>Phones & Tablets</option> <option>Smartwatches & Wearables</option> <option>Television & Video</option> <option>Video & Audio</option> <option>Video Games</option>      </select>
+      <button class="btn btn-gold px-4" type="submit">
+        <i class="bi bi-search"></i>
+      </button>
+    </form>
+    
+<ul id="searchResults" class="search-results-list"></ul>
+
+
+    
+    <div class="d-flex align-items-center gap-4">
+      <div class="text-center user-menu luxury-icon">
+        <i class="bi bi-person fs-4"></i>
+        <div class="small">My Account</div>
+      </div>
+      <a href="#" id="cartButton" class="text-decoration-none text-dark cart-menu luxury-icon">
+        <div class="position-relative text-center">
+          <i class="bi bi-cart fs-4"></i>
+          <span class="badge rounded-circle bg-danger" id="cartCount">0</span>
+          <div class="small">Cart</div>
+        </div>
+      </a>
+    </div>
+  </div>
+</nav>
+
+
+  
+  <div class="shopping-cart-sidebar" id="shoppingCartSidebar">
+    <div class="cart-header d-flex justify-content-between align-items-center px-3 py-3 border-bottom">
+      <h5 class="m-0">Shopping Cart</h5>
+      <button id="closeCart" class="btn-close" aria-label="Close"></button>
+    </div>
+    <div class="cart-body text-center p-4" id="cartBody">
+      <i class="bi bi-bag fs-1 text-secondary"></i>
+      <p class="mt-2">Shopping cart is empty!</p>
+      <button class="btn btn-primary mt-2 continue-shopping">Continue Shopping</button>
+    </div>
+  </div>
+  <div class="cart-overlay" id="cartOverlay"></div>
+
+
+<div class="container my-4">
+  <div class="row g-3 align-items-stretch">
+    
+    <div class="col-lg-8">
+      <div id="mainCarousel" class="carousel slide h-100" data-bs-ride="carousel" data-bs-interval="8000">
+        <div class="carousel-inner h-100">
+          <div class="carousel-item active h-100">
+            <div class="big-banner d-flex align-items-center justify-content-between h-100">
+              <div class="banner-content">
+                <h5>New arrivals</h5>
+                <h2>APPLE WATCH</h2>
+                <p>UP TO 60% OFF</p>
+                <div class="buttons">
+                  <a href="all_products.html" class="btn btn-outline-light">Read More</a>
+                  <a href="all_products.html" class="btn btn-danger">Buy Now</a>
+                </div>
+              </div>
+              <div class="banner-image">
+                <img src="./images/White-Apple-Watch-Transparent-Image.png" alt="Apple Watch" class="img-fluid" />
+              </div>
+            </div>
+          </div>
+          <div class="carousel-item h-100">
+            <div class="big-banner d-flex align-items-center justify-content-between h-100">
+              <div class="banner-content">
+                <h5>Exclusive Offer</h5>
+                <h2>SAMSUNG WATCH</h2>
+                <p>UP TO 50% OFF</p>
+                <div class="buttons">
+                  <a href="all_products.html" class="btn btn-outline-light">Explore</a>
+                  <a href="all_products.html" class="btn btn-danger">Shop Now</a>
+                </div>
+              </div>
+              <div class="banner-image">
+                <img src="./images/XH8BpGpYEEvmp8D7bSKHiW.png" alt="Samsung Watch" class="img-fluid" />
+              </div>
+            </div>
+          </div>
+        </div>
+        <div class="carousel-indicators">
+          <button type="button" data-bs-target="#mainCarousel" data-bs-slide-to="0" class="active"></button>
+          <button type="button" data-bs-target="#mainCarousel" data-bs-slide-to="1"></button>
+        </div>
+      </div>
+    </div>
+
+    
+    <div class="col-lg-4 d-flex flex-column justify-content-between">
+      <div class="small-banner blue flex-fill mb-3">
+        <div class="text-area">
+          <h5>Toshiba 40 HD</h5>
+          <p>Sale Extended!<br />up to <span>50%</span> Off</p>
+          <a href="#">Shop Now</a>
+        </div>
+        <div class="img-area">
+          <img src="./images/TV-Transparent-Image (1).png" alt="Toshiba TV" class="img-fluid" />
+        </div>
+      </div>
+
+      <div class="small-banner red flex-fill">
+        <div class="text-area">
+          <h5>Game Console</h5>
+          <p>Browse on-sale<br />Get an Extra <span>40%</span> Off</p>
+          <a href="#">Shop Now</a>
+        </div>
+        <div class="img-area">
+          <img src="./images/xbox.png" alt="Game Console" class="img-fluid" />
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+
+
+
+<div class="container my-5">
+  <div class="category-buttons d-flex justify-content-center flex-wrap gap-3"></div>
+</div>
+
+
+<div class="container my-5" style="font-family: 'Inter', sans-serif;">
+  <h4 class="fw-bold border-start border-4 border-danger ps-3 mb-4" style="font-size: 1.5rem; letter-spacing: 0.5px;">
+    Supper Deals
+  </h4>
+  <div class="row row-cols-1 row-cols-sm-2 row-cols-lg-4 g-4" id="supper-deals"></div>
+</div>
+
+
+<section class="featured-products-section">
+  <div class="container">
+    <h2 class="featured-products__title text-center">Featured Products</h2>
+    <div class="featured-products__grid" id="product-grid"></div>
+  </div>
+</section>
+
+
+
+<div class="quickview-modal" id="quickviewModal" aria-hidden="true" role="dialog" aria-modal="true">
+  <div class="quickview-modal__overlay" tabindex="-1"></div>
+  <div class="quickview-modal__dialog" role="document" tabindex="0" aria-labelledby="quickview-title">
+    <button class="quickview-modal__close" aria-label="Close modal">&times;</button>
+    <div class="quickview-modal__body">
+      <div class="quickview-modal__image">
+        <img id="quickview-image" src="" alt="Product Image" />
+      </div>
+      <div class="quickview-modal__content">
+        <h3 id="quickview-title"></h3>
+        <p id="quickview-price-single" class="price-single">$0.00</p>
+        <p class="stock">In Stock</p>
+        <h6>Highlight</h6>
+        <p id="quickview-desc" class="desc"></p>
+
+        <div class="qty-control">
+          <button id="qty-minus" aria-label="Decrease quantity">-</button>
+          <input type="number" id="qty-input" value="1" min="1" />
+          <button id="qty-plus" aria-label="Increase quantity">+</button>
+        </div>
+
+        <p class="total-price">Total: <span id="quickview-price-total">$0.00</span></p>
+
+        <div class="btn-row">
+          <button class="btn-primary">Add to cart</button>
+          <button class="btn-primary">Buy Now</button>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+
+
+
+<div class="container py-5">
+  <ul class="nav product-tabs__nav justify-content-center mb-4" id="productTabs">
+    <li class="nav-item">
+      <a class="nav-link active" href="#smartphone" data-bs-toggle="tab">Smartphone</a>
+    </li>
+    <li class="nav-item">
+      <a class="nav-link" href="#laptop" data-bs-toggle="tab">Laptop</a>
+    </li>
+    <li class="nav-item">
+      <a class="nav-link" href="#accessories" data-bs-toggle="tab">Accessories</a>
+    </li>
+  </ul>
+
+  <div class="tab-content">
+    <div class="tab-pane fade show active" id="smartphone">
+      <div class="product-grid-3x3" id="smartphone-products"></div>
+    </div>
+    <div class="tab-pane fade" id="laptop">
+      <div class="product-grid-3x3" id="laptop-products"></div>
+    </div>
+    <div class="tab-pane fade" id="accessories">
+      <div class="product-grid-3x3" id="accessories-products"></div>
+    </div>
+  </div>
+</div>
+
+<template id="product-template">
+  <div class="card-featured">
+    <div class="card-featured__image-box">
+      <img class="main-image" src="" alt="Main Image">
+      <img class="hover-image" src="" alt="Hover Image">
+      <div class="card-featured__quickview-btn quick-view-btn"
+           data-title=""
+           data-image=""
+           data-hover=""
+           data-price=""
+           data-desc="">
+        Quick View
+      </div>
+    </div>
+    <div class="card-featured__details">
+      <div class="card-featured__details-category"></div>
+      <div class="card-featured__details-title"></div>
+      <div class="card-featured__details-price">
+        <span class="product-card__price"></span>
+        <del class="product-oldprice d-none ms-2"></del>
+      </div>
+    </div>
+  </div>
+</template>
+
+
+
+
+
+
+
+<div class="container py-5">
+    <h4 class="mb-4">Recommended for You</h4>
+  <div class="row g-4" id="cardsContainer">
+  </div>
+</div>
+
+
+
+<div class="container py-5">
+  <h4 class="mb-4">Recommended for You</h4>
+  <div class="owl-carousel owl-theme" id="recommendedCarousel">
+  </div>
+</div>
+
+<footer class="footer-section">
+  <div class="newsletter">
+    <div class="container">
+      <div class="row justify-content-between align-items-center">
+        <div class="col-md-6 text-center text-md-start">
+          <h5>Subscribe to Our Newsletter</h5>
+          <p>Subscribe today and get special offers, coupons and news.</p>
+        </div>
+        <div class="col-md-6">
+          <form class="newsletter-form d-flex">
+            <input type="email" placeholder="Your email address" class="form-control" required>
+            <button type="submit" class="btn btn-primary">Sign up</button>
+          </form>
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <div class="footer-content">
+    <div class="container">
+      <div class="row">
+        <div class="col-md-3 col-6 footer-brand">
+          <h4>Matjar</h4>
+          <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit.</p>
+          <ul class="contact-info">
+            <li><i class="bi bi-geo-alt"></i> 677 Matjar Street, New York, US</li>
+            <li><i class="bi bi-telephone"></i> +234 5678 910</li>
+            <li><i class="bi bi-envelope"></i> matjar@example.com</li>
+            <li><i class="bi bi-clock"></i> Mon - Fri / 8:00 AM - 8:00 PM</li>
+          </ul>
+        </div>
+        <div class="col-md-3 col-6 footer-links">
+          <h5>Information</h5>
+          <ul>
+            <li><a href="#">Products Returns</a></li>
+            <li><a href="#">Terms Condition</a></li>
+            <li><a href="#">Contact Us</a></li>
+            <li><a href="#">Support Center</a></li>
+            <li><a href="#">Privacy Policy</a></li>
+            <li><a href="#">Payment Methods</a></li>
+          </ul>
+        </div>
+        <div class="col-md-3 col-6 footer-links">
+          <h5>Our Collection</h5>
+          <ul>
+            <li><a href="#">Smartphone & Tablet</a></li>
+            <li><a href="#">Video & Audio</a></li>
+            <li><a href="#">Camera & Photo</a></li>
+            <li><a href="#">Games & Console</a></li>
+            <li><a href="#">Electronic & Consumer</a></li>
+            <li><a href="#">Watches & Fitness</a></li>
+          </ul>
+        </div>
+        <div class="col-md-3 col-6 footer-links">
+          <h5>Quick Links</h5>
+          <ul>
+            <li><a href="#">Give €50. Get €50</a></li>
+            <li><a href="#">Recalled Items</a></li>
+            <li><a href="#">Order Tracking</a></li>
+            <li><a href="#">Gift Receipt</a></li>
+            <li><a href="#">How to Buy</a></li>
+            <li><a href="#">Affiliate Program</a></li>
+          </ul>
+          <div class="app-download d-flex flex-wrap mt-3">
+            <a href="#"><img src="./images/google-play.png" alt="Google Play" /></a>
+            <a href="#"><img src="./images/app-store.png" alt="App Store" /></a>
+          </div>
+        </div>
+      </div>
+
+    </div>
+  </div>
+
+  <div class="footer-bottom">
+    <div class="container d-flex flex-column flex-md-row justify-content-between align-items-center">
+      <div>&copy; Matjar © 2025 by vasili | All Rights Reserved.</div>
+      <div class="payment-icons">
+        <img src="./images/logo_visa.jpg" alt="Visa">
+        <img src="./images/paypal.png" alt="PayPal">
+        <img src="./images/mastercard.png" alt="MasterCard">
+        <img src="./images/amex.webp" alt="Amex">
+      </div>
+      <div class="social-icons">
+        <a href="#"><i class="bi bi-facebook"></i></a>
+        <a href="#"><i class="bi bi-x"></i></a>
+        <a href="#"><i class="bi bi-linkedin"></i></a>
+        <a href="#"><i class="bi bi-instagram"></i></a>
+        <a href="#"><i class="bi bi-youtube"></i></a>
+        <a href="#"><i class="bi bi-rss"></i></a>
+      </div>
+    </div>
+  </div>
+</footer>
+
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/gsap/3.12.5/gsap.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.2.3/dist/js/bootstrap.bundle.min.js" integrity="sha384-kenU1KFdBIe4zVF0s0G1M5b4hcpxyD9F7jL+jjXkk+Q2h455rYXK/7HAuoJl+0I4" crossorigin="anonymous"></script>
+    <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/OwlCarousel2/2.3.4/owl.carousel.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/swiper@11/swiper-bundle.min.js"></script>
+    <script src="./java_script/index.js"></script>
+
+</body>
+</html>
