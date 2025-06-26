@@ -1,0 +1,12 @@
+[
+  { "img": "./images/Motherboard.png", "category": "Electronics", "title": "Loudspeaker Home audio", "price": "$99.00", "oldPrice": "", "rating": "★★★★★" },
+  { "img": "./images/camera.png", "category": "Phones & Tablets", "title": "Infinix Smart 6 HD – 6.6", "price": "$29.00", "oldPrice": "$45.99", "rating": "★★★★☆" },
+  { "img": "./images/computer.png", "category": "Computers", "title": "USB Flash Drives", "price": "$44.47", "oldPrice": "$64.47", "rating": "★★★★★" },
+  { "img": "./images/headphone.png", "category": "Cameras", "title": "Skate Pan", "price": "$79.00", "oldPrice": "", "rating": "★★★★☆" },
+  { "img": "./images/vr.webp", "category": "Tablets", "title": "Ultra HD Tablet", "price": "$129.99", "oldPrice": "$199.99", "rating": "★★★★☆" },
+  { "img": "./images/Apple-iPhone-Transparent.png", "category": "Audio", "title": "Wireless Earbuds", "price": "$49.99", "oldPrice": "$69.99", "rating": "★★★★★" },
+  { "img": "./images/headphone-2.png", "category": "Computers", "title": "Mechanical Keyboard", "price": "$89.00", "oldPrice": "$129.99", "rating": "★★★★☆" },
+  { "img": "./images/TV-Transparent-Image (1).png", "category": "Wearables", "title": "Smart Watch Pro", "price": "$149.00", "oldPrice": "$199.99", "rating": "★★★★★" },
+  { "img": "./images/juicer.webp", "category": "Displays", "title": "4K Monitor", "price": "$299.99", "oldPrice": "$399.99", "rating": "★★★★☆" },
+  { "img": "./images/xbox.png", "category": "Gaming", "title": "Pro Gaming Controller", "price": "$69.99", "oldPrice": "$99.99", "rating": "★★★★★" }
+]

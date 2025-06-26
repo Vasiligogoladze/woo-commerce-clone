@@ -1,0 +1,34 @@
+[
+  {
+    "img": "/images/iphone_people.jpg",
+    "category": "Smartphone",
+    "title": "Top 10 Smartphones",
+    "meta": "By themejr | July 13, 2024 | Share",
+    "desc": "The quickest product of its kind is the iPad Pro. It is created to fully…",
+    "href": "top-10-smartphones.html"
+  },
+  {
+    "img": "/images/store_smart_watches.jpg",
+    "category": "Smartphone",
+    "title": "The Best Apple Watch",
+    "meta": "By themejr | July 13, 2024 | Share",
+    "desc": "The quickest product of its kind is the iPad Pro. It is created to fully…",
+    "href": "best-apple-watch.html"
+  },
+  {
+    "img": "/images/playstation_people.jpg",
+    "category": "Game",
+    "title": "2023 Top PC Game",
+    "meta": "By themejr | July 13, 2024 | Share",
+    "desc": "The quickest product of its kind is the iPad Pro. It is created to fully…",
+    "href": "top-pc-game-2023.html"
+  },
+  {
+    "img": "/images/ipads_store.jpg",
+    "category": "Game",
+    "title": "Top 10 iPad Pro Gamer",
+    "meta": "By themejr | July 13, 2024 | Share",
+    "desc": "The quickest product of its kind is the iPad Pro. It is created to fully…",
+    "href": "top-ipad-pro-gamers.html"
+  }
+]

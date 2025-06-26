@@ -1,0 +1,10 @@
+[
+  { "name": "Video Games", "img": "./images/xbox.png", "url": "Video_Games.html" },
+  { "name": "Video & Audio", "img": "./images/camera.png", "url": "Video_&_Audio.html" },
+  { "name": "Television & Video", "img": "./images/TV-Transparent-Image (1).png", "url": "Television_&_Video.html" },
+  { "name": "Smartwatches & Wearables", "img": "./images/XH8BpGpYEEvmp8D7bSKHiW.png", "url": "Smartwatches_&_Wearables.html" },
+  { "name": "Phones & Tablets", "img": "./images/iPhone15_Pro.webp", "url": "Phones_&_Tablets.html" },
+  { "name": "Home Appliances", "img": "./images/blender.webp", "url": "Home_Appliances.html" },
+  { "name": "Electronics", "img": "./images/Motherboard.png", "url": "Electronics.html" },
+  { "name": "Computers & Laptops", "img": "./images/computer.png", "url": "Computers_&_Laptops.html" }
+]

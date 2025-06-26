@@ -1,0 +1,1054 @@
+{
+  "categories": [
+    {
+      "name": "Category 1",
+      "products": [
+        {
+          "name": "Product 0",
+          "price": 568.92,
+          "image": "https://via.placeholder.com/300x300?text=Product+0",
+          "brand": "Brand 10",
+          "rating": 4.5,
+          "stock": 39,
+          "delivery": "Free Shipping",
+          "sku": "C-1000"
+        },
+        {
+          "name": "Product 1",
+          "price": 393.79,
+          "image": "https://via.placeholder.com/300x300?text=Product+1",
+          "brand": "Brand 5",
+          "rating": 3.9,
+          "stock": 13,
+          "delivery": "Free Shipping",
+          "sku": "C-1001"
+        },
+        {
+          "name": "Product 2",
+          "price": 465.97,
+          "image": "https://via.placeholder.com/300x300?text=Product+2",
+          "brand": "Brand 4",
+          "rating": 3.5,
+          "stock": 18,
+          "delivery": "Free Shipping",
+          "sku": "C-1002"
+        },
+        {
+          "name": "Product 3",
+          "price": 1129.82,
+          "image": "https://via.placeholder.com/300x300?text=Product+3",
+          "brand": "Brand 4",
+          "rating": 4.7,
+          "stock": 50,
+          "delivery": "Free Shipping",
+          "sku": "C-1003"
+        },
+        {
+          "name": "Product 4",
+          "price": 890.54,
+          "image": "https://via.placeholder.com/300x300?text=Product+4",
+          "brand": "Brand 5",
+          "rating": 4.2,
+          "stock": 40,
+          "delivery": "Free Shipping",
+          "sku": "C-1004"
+        },
+        {
+          "name": "Product 5",
+          "price": 610.66,
+          "image": "https://via.placeholder.com/300x300?text=Product+5",
+          "brand": "Brand 8",
+          "rating": 3.9,
+          "stock": 35,
+          "delivery": "Free Shipping",
+          "sku": "C-1005"
+        },
+        {
+          "name": "Product 6",
+          "price": 1266.81,
+          "image": "https://via.placeholder.com/300x300?text=Product+6",
+          "brand": "Brand 8",
+          "rating": 3.7,
+          "stock": 12,
+          "delivery": "Free Shipping",
+          "sku": "C-1006"
+        },
+        {
+          "name": "Product 7",
+          "price": 876.43,
+          "image": "https://via.placeholder.com/300x300?text=Product+7",
+          "brand": "Brand 3",
+          "rating": 4.4,
+          "stock": 49,
+          "delivery": "Free Shipping",
+          "sku": "C-1007"
+        },
+        {
+          "name": "Product 8",
+          "price": 396.51,
+          "image": "https://via.placeholder.com/300x300?text=Product+8",
+          "brand": "Brand 4",
+          "rating": 4.5,
+          "stock": 9,
+          "delivery": "Free Shipping",
+          "sku": "C-1008"
+        },
+        {
+          "name": "Product 9",
+          "price": 451.99,
+          "image": "https://via.placeholder.com/300x300?text=Product+9",
+          "brand": "Brand 8",
+          "rating": 4.5,
+          "stock": 27,
+          "delivery": "Free Shipping",
+          "sku": "C-1009"
+        }
+      ]
+    },
+    {
+      "name": "Category 2",
+      "products": [
+        {
+          "name": "Product 10",
+          "price": 961.46,
+          "image": "https://via.placeholder.com/300x300?text=Product+10",
+          "brand": "Brand 9",
+          "rating": 4.5,
+          "stock": 26,
+          "delivery": "Free Shipping",
+          "sku": "C-1010"
+        },
+        {
+          "name": "Product 11",
+          "price": 390.42,
+          "image": "https://via.placeholder.com/300x300?text=Product+11",
+          "brand": "Brand 2",
+          "rating": 5.0,
+          "stock": 36,
+          "delivery": "Free Shipping",
+          "sku": "C-1011"
+        },
+        {
+          "name": "Product 12",
+          "price": 546.33,
+          "image": "https://via.placeholder.com/300x300?text=Product+12",
+          "brand": "Brand 8",
+          "rating": 5.0,
+          "stock": 46,
+          "delivery": "Free Shipping",
+          "sku": "C-1012"
+        },
+        {
+          "name": "Product 13",
+          "price": 72.35,
+          "image": "https://via.placeholder.com/300x300?text=Product+13",
+          "brand": "Brand 2",
+          "rating": 4.5,
+          "stock": 39,
+          "delivery": "Free Shipping",
+          "sku": "C-1013"
+        },
+        {
+          "name": "Product 14",
+          "price": 890.28,
+          "image": "https://via.placeholder.com/300x300?text=Product+14",
+          "brand": "Brand 7",
+          "rating": 3.7,
+          "stock": 11,
+          "delivery": "Free Shipping",
+          "sku": "C-1014"
+        },
+        {
+          "name": "Product 15",
+          "price": 674.16,
+          "image": "https://via.placeholder.com/300x300?text=Product+15",
+          "brand": "Brand 5",
+          "rating": 4.3,
+          "stock": 33,
+          "delivery": "Free Shipping",
+          "sku": "C-1015"
+        },
+        {
+          "name": "Product 16",
+          "price": 725.9,
+          "image": "https://via.placeholder.com/300x300?text=Product+16",
+          "brand": "Brand 1",
+          "rating": 4.1,
+          "stock": 37,
+          "delivery": "Free Shipping",
+          "sku": "C-1016"
+        },
+        {
+          "name": "Product 17",
+          "price": 113.28,
+          "image": "https://via.placeholder.com/300x300?text=Product+17",
+          "brand": "Brand 7",
+          "rating": 3.9,
+          "stock": 44,
+          "delivery": "Free Shipping",
+          "sku": "C-1017"
+        },
+        {
+          "name": "Product 18",
+          "price": 411.97,
+          "image": "https://via.placeholder.com/300x300?text=Product+18",
+          "brand": "Brand 4",
+          "rating": 4.1,
+          "stock": 23,
+          "delivery": "Free Shipping",
+          "sku": "C-1018"
+        },
+        {
+          "name": "Product 19",
+          "price": 380.1,
+          "image": "https://via.placeholder.com/300x300?text=Product+19",
+          "brand": "Brand 10",
+          "rating": 3.7,
+          "stock": 13,
+          "delivery": "Free Shipping",
+          "sku": "C-1019"
+        }
+      ]
+    },
+    {
+      "name": "Category 3",
+      "products": [
+        {
+          "name": "Product 20",
+          "price": 1146.9,
+          "image": "https://via.placeholder.com/300x300?text=Product+20",
+          "brand": "Brand 1",
+          "rating": 4.7,
+          "stock": 23,
+          "delivery": "Free Shipping",
+          "sku": "C-1020"
+        },
+        {
+          "name": "Product 21",
+          "price": 1138.94,
+          "image": "https://via.placeholder.com/300x300?text=Product+21",
+          "brand": "Brand 7",
+          "rating": 4.1,
+          "stock": 19,
+          "delivery": "Free Shipping",
+          "sku": "C-1021"
+        },
+        {
+          "name": "Product 22",
+          "price": 1214.88,
+          "image": "https://via.placeholder.com/300x300?text=Product+22",
+          "brand": "Brand 10",
+          "rating": 4.2,
+          "stock": 28,
+          "delivery": "Free Shipping",
+          "sku": "C-1022"
+        },
+        {
+          "name": "Product 23",
+          "price": 1181.66,
+          "image": "https://via.placeholder.com/300x300?text=Product+23",
+          "brand": "Brand 8",
+          "rating": 4.0,
+          "stock": 44,
+          "delivery": "Free Shipping",
+          "sku": "C-1023"
+        },
+        {
+          "name": "Product 24",
+          "price": 648.04,
+          "image": "https://via.placeholder.com/300x300?text=Product+24",
+          "brand": "Brand 6",
+          "rating": 4.5,
+          "stock": 47,
+          "delivery": "Free Shipping",
+          "sku": "C-1024"
+        },
+        {
+          "name": "Product 25",
+          "price": 1259.4,
+          "image": "https://via.placeholder.com/300x300?text=Product+25",
+          "brand": "Brand 8",
+          "rating": 3.7,
+          "stock": 15,
+          "delivery": "Free Shipping",
+          "sku": "C-1025"
+        },
+        {
+          "name": "Product 26",
+          "price": 1394.22,
+          "image": "https://via.placeholder.com/300x300?text=Product+26",
+          "brand": "Brand 5",
+          "rating": 3.9,
+          "stock": 50,
+          "delivery": "Free Shipping",
+          "sku": "C-1026"
+        },
+        {
+          "name": "Product 27",
+          "price": 736.53,
+          "image": "https://via.placeholder.com/300x300?text=Product+27",
+          "brand": "Brand 7",
+          "rating": 4.8,
+          "stock": 28,
+          "delivery": "Free Shipping",
+          "sku": "C-1027"
+        },
+        {
+          "name": "Product 28",
+          "price": 663.06,
+          "image": "https://via.placeholder.com/300x300?text=Product+28",
+          "brand": "Brand 4",
+          "rating": 4.7,
+          "stock": 19,
+          "delivery": "Free Shipping",
+          "sku": "C-1028"
+        },
+        {
+          "name": "Product 29",
+          "price": 907.1,
+          "image": "https://via.placeholder.com/300x300?text=Product+29",
+          "brand": "Brand 10",
+          "rating": 3.6,
+          "stock": 40,
+          "delivery": "Free Shipping",
+          "sku": "C-1029"
+        }
+      ]
+    },
+    {
+      "name": "Category 4",
+      "products": [
+        {
+          "name": "Product 30",
+          "price": 1151.71,
+          "image": "https://via.placeholder.com/300x300?text=Product+30",
+          "brand": "Brand 1",
+          "rating": 3.8,
+          "stock": 40,
+          "delivery": "Free Shipping",
+          "sku": "C-1030"
+        },
+        {
+          "name": "Product 31",
+          "price": 569.94,
+          "image": "https://via.placeholder.com/300x300?text=Product+31",
+          "brand": "Brand 2",
+          "rating": 4.9,
+          "stock": 31,
+          "delivery": "Free Shipping",
+          "sku": "C-1031"
+        },
+        {
+          "name": "Product 32",
+          "price": 1302.86,
+          "image": "https://via.placeholder.com/300x300?text=Product+32",
+          "brand": "Brand 10",
+          "rating": 4.6,
+          "stock": 30,
+          "delivery": "Free Shipping",
+          "sku": "C-1032"
+        },
+        {
+          "name": "Product 33",
+          "price": 265.0,
+          "image": "https://via.placeholder.com/300x300?text=Product+33",
+          "brand": "Brand 9",
+          "rating": 4.2,
+          "stock": 50,
+          "delivery": "Free Shipping",
+          "sku": "C-1033"
+        },
+        {
+          "name": "Product 34",
+          "price": 900.5,
+          "image": "https://via.placeholder.com/300x300?text=Product+34",
+          "brand": "Brand 3",
+          "rating": 4.4,
+          "stock": 29,
+          "delivery": "Free Shipping",
+          "sku": "C-1034"
+        },
+        {
+          "name": "Product 35",
+          "price": 325.8,
+          "image": "https://via.placeholder.com/300x300?text=Product+35",
+          "brand": "Brand 1",
+          "rating": 3.9,
+          "stock": 13,
+          "delivery": "Free Shipping",
+          "sku": "C-1035"
+        },
+        {
+          "name": "Product 36",
+          "price": 35.16,
+          "image": "https://via.placeholder.com/300x300?text=Product+36",
+          "brand": "Brand 8",
+          "rating": 3.6,
+          "stock": 39,
+          "delivery": "Free Shipping",
+          "sku": "C-1036"
+        },
+        {
+          "name": "Product 37",
+          "price": 1359.11,
+          "image": "https://via.placeholder.com/300x300?text=Product+37",
+          "brand": "Brand 2",
+          "rating": 3.9,
+          "stock": 41,
+          "delivery": "Free Shipping",
+          "sku": "C-1037"
+        },
+        {
+          "name": "Product 38",
+          "price": 376.96,
+          "image": "https://via.placeholder.com/300x300?text=Product+38",
+          "brand": "Brand 10",
+          "rating": 4.4,
+          "stock": 47,
+          "delivery": "Free Shipping",
+          "sku": "C-1038"
+        },
+        {
+          "name": "Product 39",
+          "price": 1477.02,
+          "image": "https://via.placeholder.com/300x300?text=Product+39",
+          "brand": "Brand 7",
+          "rating": 4.2,
+          "stock": 21,
+          "delivery": "Free Shipping",
+          "sku": "C-1039"
+        }
+      ]
+    },
+    {
+      "name": "Category 5",
+      "products": [
+        {
+          "name": "Product 40",
+          "price": 861.67,
+          "image": "https://via.placeholder.com/300x300?text=Product+40",
+          "brand": "Brand 3",
+          "rating": 4.9,
+          "stock": 13,
+          "delivery": "Free Shipping",
+          "sku": "C-1040"
+        },
+        {
+          "name": "Product 41",
+          "price": 1162.86,
+          "image": "https://via.placeholder.com/300x300?text=Product+41",
+          "brand": "Brand 7",
+          "rating": 4.7,
+          "stock": 25,
+          "delivery": "Free Shipping",
+          "sku": "C-1041"
+        },
+        {
+          "name": "Product 42",
+          "price": 473.35,
+          "image": "https://via.placeholder.com/300x300?text=Product+42",
+          "brand": "Brand 9",
+          "rating": 4.6,
+          "stock": 26,
+          "delivery": "Free Shipping",
+          "sku": "C-1042"
+        },
+        {
+          "name": "Product 43",
+          "price": 295.68,
+          "image": "https://via.placeholder.com/300x300?text=Product+43",
+          "brand": "Brand 2",
+          "rating": 5.0,
+          "stock": 48,
+          "delivery": "Free Shipping",
+          "sku": "C-1043"
+        },
+        {
+          "name": "Product 44",
+          "price": 29.38,
+          "image": "https://via.placeholder.com/300x300?text=Product+44",
+          "brand": "Brand 3",
+          "rating": 4.7,
+          "stock": 23,
+          "delivery": "Free Shipping",
+          "sku": "C-1044"
+        },
+        {
+          "name": "Product 45",
+          "price": 348.14,
+          "image": "https://via.placeholder.com/300x300?text=Product+45",
+          "brand": "Brand 5",
+          "rating": 3.6,
+          "stock": 5,
+          "delivery": "Free Shipping",
+          "sku": "C-1045"
+        },
+        {
+          "name": "Product 46",
+          "price": 102.02,
+          "image": "https://via.placeholder.com/300x300?text=Product+46",
+          "brand": "Brand 4",
+          "rating": 4.8,
+          "stock": 12,
+          "delivery": "Free Shipping",
+          "sku": "C-1046"
+        },
+        {
+          "name": "Product 47",
+          "price": 810.53,
+          "image": "https://via.placeholder.com/300x300?text=Product+47",
+          "brand": "Brand 6",
+          "rating": 4.2,
+          "stock": 48,
+          "delivery": "Free Shipping",
+          "sku": "C-1047"
+        },
+        {
+          "name": "Product 48",
+          "price": 112.0,
+          "image": "https://via.placeholder.com/300x300?text=Product+48",
+          "brand": "Brand 10",
+          "rating": 3.6,
+          "stock": 34,
+          "delivery": "Free Shipping",
+          "sku": "C-1048"
+        },
+        {
+          "name": "Product 49",
+          "price": 1457.09,
+          "image": "https://via.placeholder.com/300x300?text=Product+49",
+          "brand": "Brand 1",
+          "rating": 4.8,
+          "stock": 18,
+          "delivery": "Free Shipping",
+          "sku": "C-1049"
+        }
+      ]
+    },
+    {
+      "name": "Category 6",
+      "products": [
+        {
+          "name": "Product 50",
+          "price": 491.59,
+          "image": "https://via.placeholder.com/300x300?text=Product+50",
+          "brand": "Brand 10",
+          "rating": 4.5,
+          "stock": 20,
+          "delivery": "Free Shipping",
+          "sku": "C-1050"
+        },
+        {
+          "name": "Product 51",
+          "price": 1145.6,
+          "image": "https://via.placeholder.com/300x300?text=Product+51",
+          "brand": "Brand 4",
+          "rating": 3.6,
+          "stock": 49,
+          "delivery": "Free Shipping",
+          "sku": "C-1051"
+        },
+        {
+          "name": "Product 52",
+          "price": 759.57,
+          "image": "https://via.placeholder.com/300x300?text=Product+52",
+          "brand": "Brand 7",
+          "rating": 4.4,
+          "stock": 17,
+          "delivery": "Free Shipping",
+          "sku": "C-1052"
+        },
+        {
+          "name": "Product 53",
+          "price": 424.06,
+          "image": "https://via.placeholder.com/300x300?text=Product+53",
+          "brand": "Brand 3",
+          "rating": 5.0,
+          "stock": 49,
+          "delivery": "Free Shipping",
+          "sku": "C-1053"
+        },
+        {
+          "name": "Product 54",
+          "price": 945.49,
+          "image": "https://via.placeholder.com/300x300?text=Product+54",
+          "brand": "Brand 6",
+          "rating": 4.7,
+          "stock": 44,
+          "delivery": "Free Shipping",
+          "sku": "C-1054"
+        },
+        {
+          "name": "Product 55",
+          "price": 1189.5,
+          "image": "https://via.placeholder.com/300x300?text=Product+55",
+          "brand": "Brand 10",
+          "rating": 4.3,
+          "stock": 28,
+          "delivery": "Free Shipping",
+          "sku": "C-1055"
+        },
+        {
+          "name": "Product 56",
+          "price": 975.6,
+          "image": "https://via.placeholder.com/300x300?text=Product+56",
+          "brand": "Brand 2",
+          "rating": 3.7,
+          "stock": 42,
+          "delivery": "Free Shipping",
+          "sku": "C-1056"
+        },
+        {
+          "name": "Product 57",
+          "price": 1156.06,
+          "image": "https://via.placeholder.com/300x300?text=Product+57",
+          "brand": "Brand 4",
+          "rating": 5.0,
+          "stock": 40,
+          "delivery": "Free Shipping",
+          "sku": "C-1057"
+        },
+        {
+          "name": "Product 58",
+          "price": 1267.4,
+          "image": "https://via.placeholder.com/300x300?text=Product+58",
+          "brand": "Brand 10",
+          "rating": 4.6,
+          "stock": 40,
+          "delivery": "Free Shipping",
+          "sku": "C-1058"
+        },
+        {
+          "name": "Product 59",
+          "price": 489.3,
+          "image": "https://via.placeholder.com/300x300?text=Product+59",
+          "brand": "Brand 10",
+          "rating": 3.6,
+          "stock": 14,
+          "delivery": "Free Shipping",
+          "sku": "C-1059"
+        }
+      ]
+    },
+    {
+      "name": "Category 7",
+      "products": [
+        {
+          "name": "Product 60",
+          "price": 1490.44,
+          "image": "https://via.placeholder.com/300x300?text=Product+60",
+          "brand": "Brand 8",
+          "rating": 3.9,
+          "stock": 21,
+          "delivery": "Free Shipping",
+          "sku": "C-1060"
+        },
+        {
+          "name": "Product 61",
+          "price": 615.4,
+          "image": "https://via.placeholder.com/300x300?text=Product+61",
+          "brand": "Brand 4",
+          "rating": 4.3,
+          "stock": 29,
+          "delivery": "Free Shipping",
+          "sku": "C-1061"
+        },
+        {
+          "name": "Product 62",
+          "price": 953.96,
+          "image": "https://via.placeholder.com/300x300?text=Product+62",
+          "brand": "Brand 4",
+          "rating": 3.6,
+          "stock": 33,
+          "delivery": "Free Shipping",
+          "sku": "C-1062"
+        },
+        {
+          "name": "Product 63",
+          "price": 149.64,
+          "image": "https://via.placeholder.com/300x300?text=Product+63",
+          "brand": "Brand 9",
+          "rating": 4.8,
+          "stock": 6,
+          "delivery": "Free Shipping",
+          "sku": "C-1063"
+        },
+        {
+          "name": "Product 64",
+          "price": 1157.19,
+          "image": "https://via.placeholder.com/300x300?text=Product+64",
+          "brand": "Brand 1",
+          "rating": 3.6,
+          "stock": 26,
+          "delivery": "Free Shipping",
+          "sku": "C-1064"
+        },
+        {
+          "name": "Product 65",
+          "price": 428.07,
+          "image": "https://via.placeholder.com/300x300?text=Product+65",
+          "brand": "Brand 7",
+          "rating": 4.3,
+          "stock": 27,
+          "delivery": "Free Shipping",
+          "sku": "C-1065"
+        },
+        {
+          "name": "Product 66",
+          "price": 144.94,
+          "image": "https://via.placeholder.com/300x300?text=Product+66",
+          "brand": "Brand 6",
+          "rating": 3.6,
+          "stock": 27,
+          "delivery": "Free Shipping",
+          "sku": "C-1066"
+        },
+        {
+          "name": "Product 67",
+          "price": 1406.4,
+          "image": "https://via.placeholder.com/300x300?text=Product+67",
+          "brand": "Brand 2",
+          "rating": 3.5,
+          "stock": 6,
+          "delivery": "Free Shipping",
+          "sku": "C-1067"
+        },
+        {
+          "name": "Product 68",
+          "price": 855.71,
+          "image": "https://via.placeholder.com/300x300?text=Product+68",
+          "brand": "Brand 9",
+          "rating": 3.9,
+          "stock": 21,
+          "delivery": "Free Shipping",
+          "sku": "C-1068"
+        },
+        {
+          "name": "Product 69",
+          "price": 1131.31,
+          "image": "https://via.placeholder.com/300x300?text=Product+69",
+          "brand": "Brand 10",
+          "rating": 4.4,
+          "stock": 5,
+          "delivery": "Free Shipping",
+          "sku": "C-1069"
+        }
+      ]
+    },
+    {
+      "name": "Category 8",
+      "products": [
+        {
+          "name": "Product 70",
+          "price": 580.36,
+          "image": "https://via.placeholder.com/300x300?text=Product+70",
+          "brand": "Brand 8",
+          "rating": 4.8,
+          "stock": 26,
+          "delivery": "Free Shipping",
+          "sku": "C-1070"
+        },
+        {
+          "name": "Product 71",
+          "price": 1179.93,
+          "image": "https://via.placeholder.com/300x300?text=Product+71",
+          "brand": "Brand 3",
+          "rating": 4.9,
+          "stock": 32,
+          "delivery": "Free Shipping",
+          "sku": "C-1071"
+        },
+        {
+          "name": "Product 72",
+          "price": 1157.44,
+          "image": "https://via.placeholder.com/300x300?text=Product+72",
+          "brand": "Brand 3",
+          "rating": 4.0,
+          "stock": 16,
+          "delivery": "Free Shipping",
+          "sku": "C-1072"
+        },
+        {
+          "name": "Product 73",
+          "price": 899.87,
+          "image": "https://via.placeholder.com/300x300?text=Product+73",
+          "brand": "Brand 1",
+          "rating": 4.3,
+          "stock": 21,
+          "delivery": "Free Shipping",
+          "sku": "C-1073"
+        },
+        {
+          "name": "Product 74",
+          "price": 284.45,
+          "image": "https://via.placeholder.com/300x300?text=Product+74",
+          "brand": "Brand 4",
+          "rating": 4.4,
+          "stock": 11,
+          "delivery": "Free Shipping",
+          "sku": "C-1074"
+        },
+        {
+          "name": "Product 75",
+          "price": 1385.44,
+          "image": "https://via.placeholder.com/300x300?text=Product+75",
+          "brand": "Brand 3",
+          "rating": 4.5,
+          "stock": 22,
+          "delivery": "Free Shipping",
+          "sku": "C-1075"
+        },
+        {
+          "name": "Product 76",
+          "price": 1397.59,
+          "image": "https://via.placeholder.com/300x300?text=Product+76",
+          "brand": "Brand 10",
+          "rating": 4.2,
+          "stock": 25,
+          "delivery": "Free Shipping",
+          "sku": "C-1076"
+        },
+        {
+          "name": "Product 77",
+          "price": 323.14,
+          "image": "https://via.placeholder.com/300x300?text=Product+77",
+          "brand": "Brand 7",
+          "rating": 3.9,
+          "stock": 18,
+          "delivery": "Free Shipping",
+          "sku": "C-1077"
+        },
+        {
+          "name": "Product 78",
+          "price": 618.39,
+          "image": "https://via.placeholder.com/300x300?text=Product+78",
+          "brand": "Brand 3",
+          "rating": 4.9,
+          "stock": 43,
+          "delivery": "Free Shipping",
+          "sku": "C-1078"
+        },
+        {
+          "name": "Product 79",
+          "price": 1410.66,
+          "image": "https://via.placeholder.com/300x300?text=Product+79",
+          "brand": "Brand 4",
+          "rating": 4.9,
+          "stock": 15,
+          "delivery": "Free Shipping",
+          "sku": "C-1079"
+        }
+      ]
+    },
+    {
+      "name": "Category 9",
+      "products": [
+        {
+          "name": "Product 80",
+          "price": 243.5,
+          "image": "https://via.placeholder.com/300x300?text=Product+80",
+          "brand": "Brand 5",
+          "rating": 4.7,
+          "stock": 33,
+          "delivery": "Free Shipping",
+          "sku": "C-1080"
+        },
+        {
+          "name": "Product 81",
+          "price": 1424.73,
+          "image": "https://via.placeholder.com/300x300?text=Product+81",
+          "brand": "Brand 2",
+          "rating": 4.3,
+          "stock": 10,
+          "delivery": "Free Shipping",
+          "sku": "C-1081"
+        },
+        {
+          "name": "Product 82",
+          "price": 120.33,
+          "image": "https://via.placeholder.com/300x300?text=Product+82",
+          "brand": "Brand 10",
+          "rating": 4.4,
+          "stock": 31,
+          "delivery": "Free Shipping",
+          "sku": "C-1082"
+        },
+        {
+          "name": "Product 83",
+          "price": 808.96,
+          "image": "https://via.placeholder.com/300x300?text=Product+83",
+          "brand": "Brand 3",
+          "rating": 4.2,
+          "stock": 15,
+          "delivery": "Free Shipping",
+          "sku": "C-1083"
+        },
+        {
+          "name": "Product 84",
+          "price": 341.43,
+          "image": "https://via.placeholder.com/300x300?text=Product+84",
+          "brand": "Brand 3",
+          "rating": 3.9,
+          "stock": 42,
+          "delivery": "Free Shipping",
+          "sku": "C-1084"
+        },
+        {
+          "name": "Product 85",
+          "price": 1392.86,
+          "image": "https://via.placeholder.com/300x300?text=Product+85",
+          "brand": "Brand 1",
+          "rating": 3.6,
+          "stock": 17,
+          "delivery": "Free Shipping",
+          "sku": "C-1085"
+        },
+        {
+          "name": "Product 86",
+          "price": 789.03,
+          "image": "https://via.placeholder.com/300x300?text=Product+86",
+          "brand": "Brand 10",
+          "rating": 4.0,
+          "stock": 14,
+          "delivery": "Free Shipping",
+          "sku": "C-1086"
+        },
+        {
+          "name": "Product 87",
+          "price": 277.17,
+          "image": "https://via.placeholder.com/300x300?text=Product+87",
+          "brand": "Brand 7",
+          "rating": 3.8,
+          "stock": 42,
+          "delivery": "Free Shipping",
+          "sku": "C-1087"
+        },
+        {
+          "name": "Product 88",
+          "price": 1427.13,
+          "image": "https://via.placeholder.com/300x300?text=Product+88",
+          "brand": "Brand 3",
+          "rating": 4.3,
+          "stock": 47,
+          "delivery": "Free Shipping",
+          "sku": "C-1088"
+        },
+        {
+          "name": "Product 89",
+          "price": 920.38,
+          "image": "https://via.placeholder.com/300x300?text=Product+89",
+          "brand": "Brand 4",
+          "rating": 4.6,
+          "stock": 33,
+          "delivery": "Free Shipping",
+          "sku": "C-1089"
+        }
+      ]
+    },
+    {
+      "name": "Category 10",
+      "products": [
+        {
+          "name": "Product 90",
+          "price": 810.33,
+          "image": "https://via.placeholder.com/300x300?text=Product+90",
+          "brand": "Brand 9",
+          "rating": 4.2,
+          "stock": 39,
+          "delivery": "Free Shipping",
+          "sku": "C-1090"
+        },
+        {
+          "name": "Product 91",
+          "price": 1081.92,
+          "image": "https://via.placeholder.com/300x300?text=Product+91",
+          "brand": "Brand 8",
+          "rating": 4.4,
+          "stock": 17,
+          "delivery": "Free Shipping",
+          "sku": "C-1091"
+        },
+        {
+          "name": "Product 92",
+          "price": 152.78,
+          "image": "https://via.placeholder.com/300x300?text=Product+92",
+          "brand": "Brand 3",
+          "rating": 3.9,
+          "stock": 10,
+          "delivery": "Free Shipping",
+          "sku": "C-1092"
+        },
+        {
+          "name": "Product 93",
+          "price": 585.32,
+          "image": "https://via.placeholder.com/300x300?text=Product+93",
+          "brand": "Brand 7",
+          "rating": 3.8,
+          "stock": 18,
+          "delivery": "Free Shipping",
+          "sku": "C-1093"
+        },
+        {
+          "name": "Product 94",
+          "price": 63.1,
+          "image": "https://via.placeholder.com/300x300?text=Product+94",
+          "brand": "Brand 2",
+          "rating": 4.7,
+          "stock": 15,
+          "delivery": "Free Shipping",
+          "sku": "C-1094"
+        },
+        {
+          "name": "Product 95",
+          "price": 637.53,
+          "image": "https://via.placeholder.com/300x300?text=Product+95",
+          "brand": "Brand 8",
+          "rating": 3.8,
+          "stock": 27,
+          "delivery": "Free Shipping",
+          "sku": "C-1095"
+        },
+        {
+          "name": "Product 96",
+          "price": 1457.71,
+          "image": "https://via.placeholder.com/300x300?text=Product+96",
+          "brand": "Brand 9",
+          "rating": 4.0,
+          "stock": 34,
+          "delivery": "Free Shipping",
+          "sku": "C-1096"
+        },
+        {
+          "name": "Product 97",
+          "price": 1195.7,
+          "image": "https://via.placeholder.com/300x300?text=Product+97",
+          "brand": "Brand 5",
+          "rating": 3.8,
+          "stock": 18,
+          "delivery": "Free Shipping",
+          "sku": "C-1097"
+        },
+        {
+          "name": "Product 98",
+          "price": 1433.98,
+          "image": "https://via.placeholder.com/300x300?text=Product+98",
+          "brand": "Brand 10",
+          "rating": 4.7,
+          "stock": 45,
+          "delivery": "Free Shipping",
+          "sku": "C-1098"
+        },
+        {
+          "name": "Product 99",
+          "price": 1163.71,
+          "image": "https://via.placeholder.com/300x300?text=Product+99",
+          "brand": "Brand 2",
+          "rating": 4.0,
+          "stock": 6,
+          "delivery": "Free Shipping",
+          "sku": "C-1099"
+        }
+      ]
+    }
+  ]
+}

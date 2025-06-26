@@ -1,0 +1,42 @@
+[
+  {
+    "category": "Video Games",
+    "title": "VR Box Model VR-01",
+    "img1": "./images/vr_1.webp",
+    "img2": "./images/vr.png",
+    "price": 55,
+    "oldPrice": 70,
+    "discount": 22,
+    "timeLeft": 2500000
+  },
+  {
+    "category": "Phones & Tablets",
+    "title": "Infinix Smart 6 HD – 6.6",
+    "img1": "./images/infinix.png",
+    "img2": "./images/infinix-2.webp",
+    "price": 29,
+    "oldPrice": 45.9,
+    "discount": 37,
+    "timeLeft": 1800000
+  },
+  {
+    "category": "Electronics",
+    "title": "Bluetooth Headphones",
+    "img1": "./images/headphone.png",
+    "img2": "./images/headphone-2.png",
+    "price": 69,
+    "oldPrice": 99,
+    "discount": 30,
+    "timeLeft": 1000000
+  },
+  {
+    "category": "Home Appliances",
+    "title": "Portable Juicer Bottle",
+    "img1": "./images/juicer.webp",
+    "img2": "./images/juicer-2.webp",
+    "price": 19.99,
+    "oldPrice": 29.99,
+    "discount": 33,
+    "timeLeft": 1200000
+  }
+]

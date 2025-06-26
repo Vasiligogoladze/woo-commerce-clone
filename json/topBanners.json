@@ -1,0 +1,26 @@
+[
+  {
+    "title": "Headphones for iPhone",
+    "subtitle": "Save Up to 30% off",
+    "btnText": "Shop Now",
+    "img": "images/white-headphone.png",
+    "bgColor": "#0033a0",
+    "textColor": "#ffffff"
+  },
+  {
+    "title": "Smart Watch X8 Max PRO",
+    "subtitle": "Supper Deals",
+    "btnText": "Shop Now",
+    "img": "images/three-image-watch.png",
+    "bgColor": "#2bbf9f",
+    "textColor": "#ffffff"
+  },
+  {
+    "title": "Surveillance Cameras 4K",
+    "subtitle": "Week Best Selling",
+    "btnText": "Shop Now",
+    "img": "images/camera.png",
+    "bgColor": "#e6372f",
+    "textColor": "#ffffff"
+  }
+]

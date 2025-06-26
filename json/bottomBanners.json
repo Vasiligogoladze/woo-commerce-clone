@@ -1,0 +1,30 @@
+[
+  {
+    "title": "Release Date & Price",
+    "subtitle": "NEW PRODUCT",
+    "img": "images/ipad.png",
+    "bgColor": "#fbe6e6",
+    "textColor": "#000000"
+  },
+  {
+    "title": "Biggest Discount",
+    "subtitle": "BIG SALE",
+    "img": "images/Earbuds-PNG-Image.png",
+    "bgColor": "#f1f1f1",
+    "textColor": "#000000"
+  },
+  {
+    "title": "GIFT CARD $250",
+    "subtitle": "WEEKEND DEAL",
+    "img": "images/gift-card.png",
+    "bgColor": "#f5f1e8",
+    "textColor": "#000000"
+  },
+  {
+    "title": "Spring Clean Sale",
+    "subtitle": "MONTH DEAL",
+    "img": "images/Apple-iPhone-Transparent.png",
+    "bgColor": "#ede9f9",
+    "textColor": "#000000"
+  }
+]

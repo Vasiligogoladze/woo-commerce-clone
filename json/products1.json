@@ -1,0 +1,35 @@
+{
+  "smartphone": [
+    { "img": "./images/iPhone15_Pro.webp", "hoverImg": "./images/iphone15_Pro_2.jpg", "title": "Apple iPhone 15 Pro", "price": "$999.00", "desc": "Powerful A17 chip and stunning design." },
+    { "img": "./images/Xiaomi_13_pro.webp", "hoverImg": "./images/Xiaomi_13_pro_2.jpg", "title": "Xiaomi 13 Pro", "price": "$899.00", "desc": "Leica camera and Snapdragon 8 Gen 2." },
+    { "img": "./images/galaxy_s24.webp", "hoverImg": "./images/galaxy_s24_2.JPG", "title": "Samsung Galaxy S24", "price": "$849.00", "desc": "Dynamic AMOLED display with AI features." },
+    { "img": "./images/Nothing_Phone_(2).jpg", "hoverImg": "./images/Nothing_Phone_(2)_2.jpg", "title": "Nothing Phone (2)", "price": "$699.00", "desc": "Transparent design and Glyph Interface." },
+    { "img": "./images/iphone14.jpeg", "hoverImg": "./images/iphone14_2.jpg", "title": "Apple iPhone 14", "price": "$799.00", "desc": "Solid performance and camera system." },
+    { "img": "./images/Google_Pixel_8_Pro.jpeg", "hoverImg": "./images/Google_Pixel_8_Pro_2.png", "title": "Google Pixel 8 Pro", "price": "$899.00", "desc": "Best-in-class AI camera system." },
+    { "img": "./images/Xiaomi_POCO_X6_Pro.png", "hoverImg": "./images/Xiaomi_POCO_X6_Pro_2.jpg", "title": "POCO X6 Pro", "price": "$379.00", "desc": "Flagship performance at mid-range price." },
+    { "img": "./images/OnePlus_12.jpeg", "hoverImg": "./images/OnePlus_12_2.jpg", "title": "OnePlus 12", "price": "$749.00", "desc": "Snapdragon 8 Gen 3 and fast charging." },
+    { "img": "./images/Realme_GT5.webp", "hoverImg": "./images/Realme_GT_5_2.jpg", "title": "Realme GT 5", "price": "$699.00", "desc": "Gaming beast with 240W charging." }
+  ],
+  "laptop": [
+    { "img": "./images/macbook-air-m2.jpg", "hoverImg": "./images/macbook-air-m2-hover.jpg", "title": "MacBook Air M2", "price": "$1,099.00", "desc": "Ultra-thin performance with Apple Silicon." },
+    { "img": "./images/macbook-pro-14.jpg", "hoverImg": "./images/macbook-pro-14-hover.jpg", "title": "MacBook Pro 14\" M3", "price": "$1,899.00", "desc": "Powerful performance for professionals." },
+    { "img": "./images/dell-xps13.jpg", "hoverImg": "./images/dell-xps13-hover.jpg", "title": "Dell XPS 13 Plus", "price": "$1,299.00", "desc": "InfinityEdge display and sleek design." },
+    { "img": "./images/lenovo-slim-7.jpg", "hoverImg": "./images/lenovo-slim-7-hover.jpg", "title": "Lenovo Yoga Slim 7", "price": "$999.00", "desc": "Portable powerhouse with AMD Ryzen." },
+    { "img": "./images/hp-spectre-x360.jpg", "hoverImg": "./images/hp-spectre-x360-hover.jpg", "title": "HP Spectre x360", "price": "$1,199.00", "desc": "Versatile 2-in-1 luxury ultrabook." },
+    { "img": "./images/asus-rog-strix.jpg", "hoverImg": "./images/asus-rog-strix-hover.jpg", "title": "ASUS ROG Strix G16", "price": "$1,699.00", "desc": "Gaming beast with RTX 4070." },
+    { "img": "./images/msi-raider.jpg", "hoverImg": "./images/msi-raider-hover.jpg", "title": "MSI Raider GE78", "price": "$2,199.00", "desc": "Desktop-class laptop with advanced cooling." },
+    { "img": "./images/samsung-galaxy-book3.jpg", "hoverImg": "./images/samsung-galaxy-book3-hover.jpg", "title": "Galaxy Book3 Pro", "price": "$1,499.00", "desc": "Lightweight, AMOLED laptop from Samsung." },
+    { "img": "./images/acer-swift-x.jpg", "hoverImg": "./images/acer-swift-x-hover.jpg", "title": "Acer Swift X 14", "price": "$1,099.00", "desc": "NVIDIA graphics in ultra-slim design." }
+  ],
+  "accessories": [
+    { "img": "./images/apple-airpods-pro.jpg", "hoverImg": "./images/apple-airpods-pro-hover.jpg", "title": "AirPods Pro (2nd Gen)", "price": "$249.00", "desc": "Active noise cancellation and spatial audio." },
+    { "img": "./images/logitech-mx-master3.jpg", "hoverImg": "./images/logitech-mx-master3-hover.jpg", "title": "Logitech MX Master 3S", "price": "$99.00", "desc": "Advanced productivity mouse." },
+    { "img": "./images/keychron-k2.jpg", "hoverImg": "./images/keychron-k2-hover.jpg", "title": "Keychron K2 V2", "price": "$89.00", "desc": "Compact mechanical keyboard for Mac/Win." },
+    { "img": "./images/samsung-t7.jpg", "hoverImg": "./images/samsung-t7-hover.jpg", "title": "Samsung T7 SSD 1TB", "price": "$119.00", "desc": "Blazing fast portable SSD." },
+    { "img": "./images/magsafe-charger.jpg", "hoverImg": "./images/magsafe-charger-hover.jpg", "title": "Apple MagSafe Charger", "price": "$39.00", "desc": "Snap-on wireless charging." },
+    { "img": "./images/anker-powerbank.jpg", "hoverImg": "./images/anker-powerbank-hover.jpg", "title": "Anker 20K Power Bank", "price": "$59.00", "desc": "High-capacity with fast charging." },
+    { "img": "./images/logitech-streamcam.jpg", "hoverImg": "./images/logitech-streamcam-hover.jpg", "title": "Logitech StreamCam", "price": "$169.00", "desc": "1080p webcam with autofocus." },
+    { "img": "./images/bose-qc45.jpg", "hoverImg": "./images/bose-qc45-hover.jpg", "title": "Bose QuietComfort 45", "price": "$329.00", "desc": "Legendary ANC and comfort." },
+    { "img": "./images/sandisk-usb.jpg", "hoverImg": "./images/sandisk-usb-hover.jpg", "title": "SanDisk Ultra 128GB", "price": "$19.00", "desc": "Reliable and fast USB 3.0 drive." }
+  ]
+}
